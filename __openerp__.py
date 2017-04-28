@@ -10,4 +10,6 @@
     ],
     'installable': True,
     'auto_install': False,
+    'price': 200,
+    'currency': MAD,
 }
